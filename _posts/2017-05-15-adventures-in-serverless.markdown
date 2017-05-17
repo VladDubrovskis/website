@@ -27,13 +27,13 @@ And some endpoint that one could use to edit/delete those feature flags. So the 
 - CRUD feature flags API with minimum data
 - AWS Lambda + other services is necessary
 
-Hence was the start of the [Serverless Feature Flags](serverless-feature-flags). One of the things I have decided to do was to use [Serverless framework][severless-framework] which
+Hence was the start of the [Serverless Feature Flags][serverless-feature-flags]. One of the things I have decided to do was to use [Serverless framework][serverless-framework] which
 gives you an easy way to define triggers/resources for your Lambdas and help you deployment and tear down process.
 
 Tune in next time where I will tell a story of how I got from 0 to basic API working and how I then optimised the code.
 
 
 [aws-lambda]: http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
-[serverless-feature-flags]: http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+[serverless-feature-flags]: github.com/VladDubrovskis/serverless-feature-flags
 [serverless-framework]: https://serverless.com/
 
